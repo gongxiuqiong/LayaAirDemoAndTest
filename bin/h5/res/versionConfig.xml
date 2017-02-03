@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<versionConfig>
+	<item url="res/protobuf/Platform.proto" version="1.0.2"/>
+	<item url="res/protobuf/HelloWorld.proto" version="1.0.2"/>
+	<item url="res/protobuf/LuckyBigWheel.proto" version="1.0.4"/>
+	<item url="res/protobuf/message.json" version="1.0.3"/>
+	<item url="res/atlas/dealerAlert.json" version="1.0.2"/>
+	<item url="res/atlas/popUp.json" version="1.0.2"/>
+	<item url="res/ipconfig.xml" version="1.0.3"/>
+	<item url="res/swf/dadeng.swf" version="1.0.2"/>
+	<item url="res/swf/qiandeng.swf" version="1.0.2"/>
+	<item url="res/swf/qingtouzhu.swf" version="1.0.2"/>
+	<item url="res/swf/shengli.swf" version="1.0.2"/>
+	<item url="res/swf/shengli1.swf" version="1.0.2"/>
+	<item url="res/swf/shibai.swf" version="1.0.2"/>
+	<item url="res/swf/xiaodeng.swf" version="1.0.2"/>
+	<item url="res/swf/xiaoshou.swf" version="1.0.2"/>
+	<item url="res/swf/yaogan.swf" version="1.0.2"/>
+	<item url="res/atlas/luckyBigWheel.json" version="1.0.9"/>
+	<item url="res/sound/casinoEnv.mp3" version="1.0.2"/>
+	<item url="res/sound/chipToTable.mp3" version="1.0.2"/>
+	<item url="res/sound/chipToPlayer.mp3" version="1.0.2"/>
+	<item url="res/atlas/historyResult.json" version="1.0.0"/>
+	<item url="res/atlas/chipBtn.json" version="1.0.0"/>
+</versionConfig>
